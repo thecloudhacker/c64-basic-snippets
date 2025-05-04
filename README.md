@@ -7,7 +7,7 @@ Small snippets of Commodore64 BASIC code, random bits of BASIC code for testing 
 
 ## Sound Routines
 
-(./sound/thedrone.md)[TheDrone] - A repetitive droning sound with colour cycling.
+[TheDrone](sound/thedrone.md) - A repetitive droning sound with colour cycling.
 
 
 
